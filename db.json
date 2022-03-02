@@ -1,0 +1,1443 @@
+{
+    "items": [{
+            "title": {
+                "uz": "Hujayra",
+                "en": "Cell",
+                "ru": "Клетка"
+            },
+            "description": {
+                "uz": "Organizmning eng kichik strukturaviy va funksional birligi",
+                "en": "The smallest stuructural and functional unit of an organizm.",
+                "ru": "Мельчайшая структурная и функциональная единица организма"
+            },
+            "image": {
+                "src": "malumot/img/1.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Xloroplast",
+                "en": "Chloroplast",
+                "ru": "Хлоропласт"
+            },
+            "description": {
+                "uz": "Tarkibida xlorofill bo'lgan va fotosintez sodir bo'ladigan plastida",
+                "en": "In a plate containing chlorophyll and in which photosynthesis takes place",
+                "ru": "В пластине, содержащей хлорофилл и фотосинтез"
+            },
+            "image": {
+                "src": "./malumot/img/2.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Mitaxondriya",
+                "en": "Chloroplast",
+                "ru": "Хлоропласт"
+            },
+            "description": {
+                "uz": "Hujayraning asosan nafas oladigan va ATF energiyasini hosil qiladigan hujayra organoidi",
+                "en": "In a plate containing chlorophyll and in which photosynthesis takes place",
+                "ru": "В пластине, содержащей хлорофилл и фотосинтез"
+            },
+            "image": {
+                "src": "./malumot/img/3.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Sitoplazma",
+                "en": "Сytoplasm",
+                "ru": "Цитоплазма"
+            },
+            "description": {
+                "uz": "Рujayraning barcha organoidlar qismi",
+                "en": "Part of all the organelles of the cell",
+                "ru": "Часть всех органоидов клетки"
+            },
+            "image": {
+                "src": "./malumot/img/4.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Membrana",
+                "en": "Membrane",
+                "ru": "Мембрана"
+            },
+            "description": {
+                "uz": "Hujayra sitoplazmasini o'rab turgan yarim o'tkazuvchan membrana",
+                "en": "A semiconducting membrane that surrounds the cell cytoplasm",
+                "ru": "Полупроводниковая мембрана, окружающая цитоплазму клетки"
+            },
+            "image": {
+                "src": "./malumot/img/5.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Vakuola",
+                "en": "Vacuola",
+                "ru": "Вакуола"
+            },
+            "description": {
+                "uz": "Hujayra sitoplazmasinidagi membrana bilan o'ralgan va odatda suyuqlikni o'z ichiga olgan bo'shliq",
+                "en": "A cavity in the cell cytoplasm that is surrounded by a membrane and usually contains fluid",
+                "ru": "Полость в цитоплазме клетки, окруженная мембраной и обычно содержащая жидкость"
+            },
+            "image": {
+                "src": "./malumot/img/6.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "To'qima",
+                "en": "Tissue",
+                "ru": "Ткань"
+            },
+            "description": {
+                "uz": "Muayyan funksiyani bajaradigan bir-biriga o'xshash hujayralar to'plami",
+                "en": "A set of similar cells that perform a specific function",
+                "ru": "Совокупность подобных клеток, выполняющих определенную функцию"
+            },
+            "image": {
+                "src": "./malumot/img/7.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Barg",
+                "en": "Leaf",
+                "ru": "Лист"
+            },
+            "description": {
+                "uz": "O'simlikning fotosintez va transpiratsiya qiladigan asosiy vegetativ organi",
+                "en": "The main vegetative organ of the plant for photosynthesis and transpiration",
+                "ru": "Главный вегетативный орган растения, обеспечивающий фотосинтез и транспирацию"
+            },
+            "image": {
+                "src": "./malumot/img/8.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Stapeliya",
+                "en": "Stapelia",
+                "ru": "Стапелия"
+            },
+            "description": {
+                "uz": "Katta yulduz shaklidagi go'shtli gullari bolgan shirali afrikalik o'simlik, ularda qalin belgilar va chirigan go'shtning o'tkir hidi bor, bu changlatuvchi chivinlarni o'ziga tortadi",
+                "en": "A succulent African plant with large star-shaped fleshy flowers, which have thick marks and a pungent odor of rotten flesh, which attracts pollinating mosquitoes",
+                "ru": "Суккулентное африканское растение с крупными звездчатыми мясистыми цветками, имеющими толстые отметины и резкий запах гнилой плоти, привлекающий комаров-опылителей"
+            },
+            "image": {
+                "src": "./malumot/img/9.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Changlanish",
+                "en": "Pollination",
+                "ru": "Опыление"
+            },
+            "description": {
+                "uz": "Urug'lanishni ta'minlash uchun gulchangi stigma, tuxumdon, gul yoki o'simlikka o'tqazish",
+                "en": "Transplanting a pollen stigma, ovary, flower or plant to ensure fertilization",
+                "ru": "Пересадка пыльцевого рыльца, завязи, цветка или растения для обеспечения оплодотворения"
+            },
+            "image": {
+                "src": "./malumot/img/10.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Changchi",
+                "en": "Changchi",
+                "ru": "Чанчи"
+            },
+            "description": {
+                "uz": "Gulning erkak urug'lantiruvchi organi, odatda changi o'z ichiga olgan changdon va changchi ipidan iborat",
+                "en": "The male fertilizing organ of the flower consists of a pollen and pollen filament, usually containing pollen",
+                "ru": "Мужской оплодотворяющий орган цветка состоит из пыльцы и пыльцевой нити, обычно содержащей пыльцу"
+            },
+            "image": {
+                "src": "./malumot/img/11.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Urug'chi",
+                "en": "Seed",
+                "ru": "Семя"
+            },
+            "description": {
+                "uz": "Gulning ayol organlari, tumshuqcha, ustuncha va tugunchani o'z ichiga oladi",
+                "en": "The female organs of the flower include the beak, column, and nodule",
+                "ru": "Женские органы цветка включают клюв, столбик и узелок"
+            },
+            "image": {
+                "src": "./malumot/img/12.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Gultojbarg",
+                "en": "Petal",
+                "ru": "Лепесток"
+            },
+            "description": {
+                "uz": "Gullarning reproduktiv qismlarini o'rab turgan o'zlashtirilgan barglaridir",
+                "en": "Are assimilated leaves that surround the reproductive parts of flowers",
+                "ru": "Ассимилированные листья, окружающие репродуктивные части цветков"
+            },
+            "image": {
+                "src": "./malumot/img/13.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Gulkosachabarg",
+                "en": "Sepal",
+                "ru": "Чашелистики цветения"
+            },
+            "description": {
+                "uz": "Odatda yashil rangdagi gulkosachabarglar kurtakdagi gul uchun himoya vazifasini bajaradi va kopincha gulkosachabarglarni himoya qiladi",
+                "en": "Usually the green petals serve as a protection for the flower in the bud and often protect the petals",
+                "ru": "Обычно зеленые лепестки служат защитой для цветка в бутоне и часто защищают лепестки"
+            },
+            "image": {
+                "src": "./malumot/img/14.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Tuxumdon",
+                "en": "Ovule",
+                "ru": "Яичник"
+            },
+            "description": {
+                "uz": "Bu gulli o'simlikning urug'ini hosil qiluvchi organ",
+                "en": "It is the organ that produces the seeds of the flowering plant",
+                "ru": "Это орган, который производит семена цветкового растения"
+            },
+            "image": {
+                "src": "./malumot/img/15.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Chang",
+                "en": "Pollen",
+                "ru": "Чанг"
+            },
+            "description": {
+                "uz": "Gulli o'simliklarning erkin gametalarini o'z ichiga oladigan changdonda saqlanadigan gul qismi",
+                "en": "The part of the flower that is stored in the pollen that contains the free gametes of flowering plants",
+                "ru": "Часть цветка, хранящаяся в пыльце и содержащая свободные гаметы цветковых растений"
+            },
+            "image": {
+                "src": "./malumot/img/16.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Ragweed",
+                "en": "Ragweed",
+                "ru": "Амброзия"
+            },
+            "description": {
+                "uz": "Romashka oilasiga mansub Shimoliy Amerika osimlik. Uning mayda yashil gullari ko'p miqdorida gulchanglarni ishlab chiqaradi",
+                "en": "A North American plant belonging to the chamomile family. Its tiny green flowers produce large amounts of pollen",
+                "ru": "Североамериканское растение, принадлежащее к семейству ромашковых. Его крошечные зеленые цветки производят большое количество пыльцы"
+            },
+            "image": {
+                "src": "./malumot/img/17.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Urug'",
+                "en": "Seed",
+                "ru": "Семя"
+            },
+            "description": {
+                "uz": "Gulli osimlikning ko'payish organi bulib urug'dan yangi o'simlik osib chiqadi",
+                "en": "As a reproductive organ of a flowering plant, a new plant emerges from the seed",
+                "ru": "Как репродуктивный орган цветкового растения, новое растение появляется из семени"
+            },
+            "image": {
+                "src": "./malumot/img/18.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Meva",
+                "en": "Fruit",
+                "ru": "Плод"
+            },
+            "description": {
+                "uz": ">Meva daraxt yoki boshqa o'simlikning shirin va etli qismi, urug'ini o'z ichiga oladi va oziq-ovqat sifatida iste'mol qilinadi",
+                "en": "Fruit the sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food",
+                "ru": "Сладкий и мясистый продукт дерева или другого растения, содержащий семена, который можно употреблять в пищу"
+            },
+            "image": {
+                "src": "./malumot/img/19.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Avstraliya dengiz sheri",
+                "en": "Australian sea lion",
+                "ru": "Австралийски тюлень"
+            },
+            "description": {
+                "uz": "Avstraliya suvlarida 10 turdagi muhrlar va dengiz sherlari uchraydi.  Ulardan uchtasi odatda janubiy Avstraliya suvlarida, qolganlari Avstraliyaning Antarktika hududida joylashgan",
+                "en": "10species of seals and sea lions occur in Australian waters. Of these, three are commonly found in southern Australian waters and the remainder occur in Australia's Antarctic Territory",
+                "ru": "В австралийских водах встречается 10 видов тюленей и морских львов.  Из них три обычно встречаются в водах южной Австралии, а остальные встречаются на антарктической территории Австралии"
+            },
+            "image": {
+                "src": "./malumot/img/20.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Parchalovchilar",
+                "en": "Decomposers",
+                "ru": "Редуценты"
+            },
+            "description": {
+                "uz": "Organik moddalarni parchalaydigan organizm, ayniqsa tuproq bakteriyasi",
+                "en": "Decomposers an organism, especially a soil bacterium, fungus, or invertebrate, that decomposes organic material",
+                "ru": "Организмы, особенно почвенные бактерии, грибы или беспозвоночные, разлагающие органический материал"
+            },
+            "image": {
+                "src": "./malumot/img/21.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Gifa",
+                "en": "Hyphae",
+                "ru": "Гифы"
+            },
+            "description": {
+                "uz": "Qo'ziqorin mitseliyasini tashkil etuvchi shoxlangan filamentlarning har biri",
+                "en": "Each of the branching filaments that make up the mycelium of a fungus",
+                "ru": "каждая из ветвящихся нитей, составляющих мицелий гриба"
+            },
+            "image": {
+                "src": "./malumot/img/22.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Zamburug'lar",
+                "en": "Fung",
+                "ru": "Гриб"
+            },
+            "description": {
+                "uz": "Organik moddalar, shu jumladan mog'or, xamirturush, qo'ziqorin va zamburug'lar bilan oziqlanadigan spora hosil qiluvchi organizmlarning har qanday guruhi",
+                "en": "Any of a group of spore-producing organisms feeding on organic matter, including molds, yeast, mushrooms, and toadstools",
+                "ru": "Любой из группы спорообразующих организмов, питающихся органическими веществами, включая плесень, дрожжи, грибы и поганки"
+            },
+            "image": {
+                "src": "./malumot/img/23.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Buyvol",
+                "en": "Buffalo",
+                "ru": "Буйвол"
+            },
+            "description": {
+                "uz": "Asosan qadimgi dunyo tropiklarida uchraydigan shoxlari orqa tomonga burilgan, kuchli  yovvoyi ho'kiz",
+                "en": "A heavily built wild ox with backswept horns, found mainly in the Old World tropics",
+                "ru": "Массивный дикий бык с загнутыми назад рогами, обитающий в основном в тропиках Старого Света"
+            },
+            "image": {
+                "src": "./malumot/img/24.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Og'izcha",
+                "en": "Stoma",
+                "ru": "Устьица"
+            },
+            "description": {
+                "uz": "Fotosintez uchun CO2 ni o'zlashtiradi  va transpiratsiya yani suv bug'latishda ishtirok etadi",
+                "en": "Allow them to absorb CO2 for photosynthesis and remove water vapor from the transpiration stream",
+                "ru": "Позволяют им поглощать CO2 для фотосинтеза и удалять водяной пар из потока испарения"
+            },
+            "image": {
+                "src": "./malumot/img/25.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Ildiz",
+                "en": "Roots",
+                "ru": "Корни"
+            },
+            "description": {
+                "uz": "O'simlikning yerga yoki tayanchga bog'laydigan qismi, odatda yer osti, ko'p sonli novdalar va tolalar orqali o'simlikning qolgan qismiga suv va ozuqa yetkazib beradi",
+                "en": "The part of a plant which attaches it to the ground or to a support, typically underground, conveying water and nourishment to the rest of the plant via numerous branches and fibers",
+                "ru": "Часть растения, которая прикрепляет его к земле или опоре, как правило, под землей, передавая воду и питание остальным частям растения через многочисленные ветви и волокна"
+            },
+            "image": {
+                "src": "./malumot/img/26.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Oqsil",
+                "en": "Protein",
+                "ru": "Белок"
+            },
+            "description": {
+                "uz": "Protein tanadagi yangi hujayralarni yaratish uchun muhimdir.Protein gemoglobin va antikorlarni hosil qilish uchun ham kerak",
+                "en": "Protein is important for making new cells in the body. Protein is also needed to make haemoglobin and antibodies",
+                "ru": "Белок важен для создания новых клеток в организме.  Белок также необходим для выработки гемоглобина и антител"
+            },
+            "image": {
+                "src": "./malumot/img/27.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Uglevod",
+                "en": "Carbohydrate",
+                "ru": "Углевод"
+            },
+            "description": {
+                "uz": "Oziq-ovqat va tirik to'qimalarda, jumladan shakar, kraxmal va sellyulozada uchraydigan katta organik birikmalarning har qanday guruhi",
+                "en": "Any of a large group of organic compounds occurring in foods and living tissues and including sugars, starch, and cellulose",
+                "ru": "любые из большой группы органических соединений, встречающихся в пищевых продуктах и живых тканях, включая сахара, крахмал и целлюлозу"
+            },
+            "image": {
+                "src": "./malumot/img/28.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Kraxmal",
+                "en": "Starch",
+                "ru": "Крахмал"
+            },
+            "description": {
+                "uz": "Bu polisakkarid bo'lib, uglevodlar zaxirasi vazifasini bajaradi va inson ratsionining muhim tarkibiy qismidir",
+                "en": "It is a polysaccharide which functions as a carbohydrate store and is an important constituent of the human diet",
+                "ru": "Это полисахарид, который функционирует как хранилище углеводов и является важной составляющей рациона человека"
+            },
+            "image": {
+                "src": "./malumot/img/29.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Shakar",
+                "en": "Sugar",
+                "ru": "Сахар"
+            },
+            "description": {
+                "uz": "Turli o'simliklardan, xususan, shakarqamish va qand lavlagidan olingan, asosan saxarozadan iborat bo'lgan, oziq-ovqat va ichimliklarda  ishlatiladigan shirin kristalli modda",
+                "en": "A sweet crystalline substance obtained from various plants, especially sugar cane and sugar beet, consisting essentially of sucrose, and used as a sweetener in food and drink",
+                "ru": "Сладкое кристаллическое вещество, получаемое из различных растений, особенно сахарного тростника и сахарной свеклы, состоящее в основном из сахарозы и используемое в качестве подсластителя в еде и напитках"
+            },
+            "image": {
+                "src": "./malumot/img/30.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Yog'",
+                "en": "Fat",
+                "ru": "Жир"
+            },
+            "description": {
+                "uz": "Yog'lar tanada zahira sifatida  saqlanishi mumkin.  Yangi hujayra membranalarini yaratish uchun yog' kerak",
+                "en": "Fat can be stored in the body. Far stores underneath the skin provide insulation. Fat is needed to make new cell membranes",
+                "ru": "Жир может храниться в организме.  Дальние запасы под кожей обеспечивают изоляцию.  Жир необходим для создания новых клеточных мембран"
+            },
+            "image": {
+                "src": "./malumot/img/31.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Kletchatka",
+                "en": "Fibre",
+                "ru": "Клетчатка"
+            },
+            "description": {
+                "uz": "Ovqat hazm qilish tizimi orqali oziq-ovqatning oson harakatlanishiga yordam beradi",
+                "en": "Helps to keep food moving easily through the digestive system",
+                "ru": "Помогает пище легко перемещаться по пищеварительной системе"
+            },
+            "image": {
+                "src": "./malumot/img/32.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Vitamin",
+                "en": "Vitamin",
+                "ru": "Витамин"
+            },
+            "description": {
+                "uz": "Normal o'sish va ovqatlanish uchun zarur bo'lgan va organizm tomonidan sintez qilinmaganligi sababli oz miqdorda  talab qilinadigan organik birikmalarning har qanday guruhi",
+                "en": "-any of a group of organic compounds which are essential for normal growth and nutrition and are required in small quantities in the diet because they cannot be synthesized by the body",
+                "ru": "Любое из группы органических соединений, которые необходимы для нормального роста и питания и требуются в небольших количествах в рационе, поскольку они не могут быть синтезированы организмом"
+            },
+            "image": {
+                "src": "./malumot/img/33.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "A vitamin",
+                "en": "Vitamin A",
+                "ru": "Ретинол"
+            },
+            "description": {
+                "uz": "Retinol teri hujayralari va suyak to'qimalarining rivojlanishida muhim rol o'ynaydi, shuningdek, ko'zning to'r pardasida fotoreseptsiyani ta'minlaydigan vizual pigment radopsin tarkibiga kiritilgan vizual analizatorning ishlashini ta'minlaydi",
+                "en": "Retinol plays an important role in the development of skin cells and bone tissue, and also ensures the operation of the visual analyzer, being included in the composition of the visual pigment radopsin, which provides photoreception on the retina",
+                "ru": "Играет важнейшую роль в процессе развития клеток кожи и костной ткани, а также обеспечивает работу зрительного анализатора, включаясь в состав зрительного пигмента радопсина, обеспечивающего фоторецепцию на сетчатке глаза"
+            },
+            "image": {
+                "src": "./malumot/img/34.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Vitamin B",
+                "en": "B vitamins",
+                "ru": "Витамины группы B"
+            },
+            "description": {
+                "uz": "Suvda eriydigan vitaminlar guruhi bo'lib, hujayra metabolizmida muhim rol o'ynaydi",
+                "en": "Are a group of water-soluble vitamins that play an important role in cellular metabolism",
+                "ru": "Группа водорастворимых витаминов, играющих большую роль в клеточном метаболизме"
+            },
+            "image": {
+                "src": "./malumot/img/35.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Vitamin C",
+                "en": "Vitamin C",
+                "ru": "Витамин С"
+            },
+            "description": {
+                "uz": "Kuchli antioksidant modda bo'lib, to'qimalarni shikastlanishdan asraydi",
+                "en": "Is a powerful antioxidant that protects tissues from damage",
+                "ru": "является мощным антиоксидантом, защищающим ткани от повреждений"
+            },
+            "image": {
+                "src": "./malumot/img/36.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "D vitamin",
+                "en": "Vitamin D",
+                "ru": "Витамин D"
+            },
+            "description": {
+                "uz": "Jigar va balig' yog'larida mavjud bo'lgan har qanday vitaminlar guruhi kaltsiyning so'rilishi va bolalarda raxlit va kattalarda osteomalaziyaning oldini olish uchun zarurdir",
+                "en": "Any of a group of vitamins found in liver and fish iols, essential for the absorption of calcium and the prevention of rickets in children and osteomalacia in adults",
+                "ru": "Любой из группы витаминов, содержащихся в печени и рыбьем жире, необходимых для усвоения кальция и предотвращения рахита у детей и остеомаляции у взрослых"
+            },
+            "image": {
+                "src": "./malumot/img/37.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "So'lak bezlari",
+                "en": "Salivary glands",
+                "ru": "Cлюнные железы у млекопитающих"
+            },
+            "description": {
+                "uz": "Sutemizuvchilarning so'lak bezlari tashqi sekretsiya bezlari bo'lib, kanallar tizimi orqali so'lak  hosil qiladi",
+                "en": "The salivary glands in mammals are exocrine glands that produce saliva through a system of ducts",
+                "ru": "Это экзокринные железы, вырабатывающие слюну через систему протоков"
+            },
+            "image": {
+                "src": "./malumot/img/38.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Qizilo'ngach",
+                "en": "Oesophagus",
+                "ru": "Пищевод"
+            },
+            "description": {
+                "uz": "Ovqat hazm qilish kanalining tomoqni oshqozon bilan bog'laydigan qismi",
+                "en": "The part of the alimentary canal that connects the throat to the stomach the gullet",
+                "ru": "Пищеварительного тракта, соединяющая глотку с желудком"
+            },
+            "image": {
+                "src": "./malumot/img/39.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Jigar",
+                "en": "Liver",
+                "ru": "Печень"
+            },
+            "description": {
+                "uz": "Organizmda o't suyuqligini ishlab chiqaradigan, qonni tozalab beradigan eng yirik bez",
+                "en": "The largest gland in the body that produces bile and cleanses the blood",
+                "ru": "Самая большая железа в организме, вырабатывающая желчь и очищающая кровь"
+            },
+            "image": {
+                "src": "./malumot/img/40.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "OShqozon",
+                "en": "Stomach",
+                "ru": "Желудок"
+            },
+            "description": {
+                "uz": "Ovqat hazm qilishning asosiy qismi sodir bo'lgan ichki organ qizilo'ngachni ingichka ichak bilan bog'laydigan ovqat hazm qilish kanalining nok shaklidagi kengayishi",
+                "en": "The internal organ in which the major part of the digestion of food occurs, being a pear-shaped enlargement of the alimentary canal linking the esophagus to the small intestine",
+                "ru": "Внутренний орган, в котором происходит большая часть переваривания пищи, являющийся грушевидным расширением пищеварительного канала, соединяющего пищевод с тонкой кишкой"
+            },
+            "image": {
+                "src": "./malumot/img/41.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "O't pufagi",
+                "en": "Gall bladder",
+                "ru": "Желчный пузырь"
+            },
+            "description": {
+                "uz": "O't suyuqligini o'n ikki barmoqli ichakka quyadigan yog'ni emulsiyalaydigan  jigarning orqa tomonidagi qopchasi",
+                "en": "A small sac-shaped organ under the liver in which the bile is stored by the liver and before it enters the intestine.Bile fluid breaks down the fat in the food",
+                "ru": "Небольшой орган в форме мешочка под печенью, в котором желчь хранится печенью, до того, как она попадет в кишечник. Желчная жидкость расщепляет жир, содержащийся в пище"
+            },
+            "image": {
+                "src": "./malumot/img/42.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Oshqozon osti bezi",
+                "en": "Pancreas",
+                "ru": "Поджелудочная железа"
+            },
+            "description": {
+                "uz": "Oshqozon osti bezi shirasi ingichka ichakka oqib o'tadi, u yerda oqsil, kraxmal va yog'larni hazm qilishga yordam beradi",
+                "en": "Pancreatic juice flows into the small intestine, where it helps to digest protein, starch and fat",
+                "ru": "Сок поджелудочной железы попадает в тонкий кишечник, где помогает переваривать белок, крахмал и жир"
+            },
+            "image": {
+                "src": "./malumot/img/43.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Yo'g'on ichak",
+                "en": "Large intestine",
+                "ru": "Толстый кишечник"
+            },
+            "description": {
+                "uz": "Bu yerdan hazm bo'lmaydigan va so'rilmaydigan barcha oziq-ovqatlar o'tadi. Undagi suv biroz ko'proq so'riladi",
+                "en": "All the food that could not be digested and absorbed passes through here. A little more of the water in it is absorbed",
+                "ru": "Здесь проходит вся пища, которая не может быть переварена и усвоена.  Немного больше воды в нем впитывается"
+            },
+            "image": {
+                "src": "./malumot/img/44.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Ingichka ichak",
+                "en": "Small intestine",
+                "ru": "Тонкая кишка"
+            },
+            "description": {
+                "uz": "Oshqozon osti bezi sharbatlari kraxmal, oqsil va yog'larni mayda molekulalarga parchalaydi. Keyinchalik bu kichik molekulalar ingichka ichak devorlari orqali so'riladi",
+                "en": "Juices from the pancreas finish breaking down starch, protein and fat to small molecules. These small molecules are then absorbed through the walls of the small intestine",
+                "ru": "Соки поджелудочной железы заканчивают расщепление крахмала, белков и жиров на мелкие молекулы. Затем эти небольшие молекулы всасываются через стенки тонкой кишки"
+            },
+            "image": {
+                "src": "./malumot/img/45.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Kurak tish",
+                "en": "Incisors",
+                "ru": "Резцы"
+            },
+            "description": {
+                "uz": "Og'izning old qismidagi tor qirrali tish , kesish uchun moslashtirilgan",
+                "en": "A narrow-edged tooth at the front of the mouth, adapted for cutting",
+                "ru": "Зуб с узкими краями в передней части рта, приспособленный для резки"
+            },
+            "image": {
+                "src": "./malumot/img/46.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Qoziq tish",
+                "en": "Canines",
+                "ru": "Клыки"
+            },
+            "description": {
+                "uz": "Kurak tishlarga qaraganda ko'proq o'tkirroqdir.Odamlarda ular kurak tishlar bilan bir xil tarzda qo'llaniladi",
+                "en": "Are more pointed than incisors. In humans, they are used in the same way as incisors",
+                "ru": "Более заострены,чем резцы.У человека они используются так же, как резцы"
+            },
+            "image": {
+                "src": "./malumot/img/47.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Kichik oziq tish",
+                "en": "Premolars",
+                "ru": "Премоляры"
+            },
+            "description": {
+                "uz": "Tizmalari bo'lgan keng sirtlar mavjud.Ular ovqatni chaynash paytida maydalash uchun ishlatiladi",
+                "en": "Have broad surfaces with ridges on them. They are used for crushing and grinding food when you chew",
+                "ru": "Имеют широкую поверхность с выступами на них.  Они используются для измельчения и измельчения пищи при жевании"
+            },
+            "image": {
+                "src": "./malumot/img/48.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Katta oziq tish",
+                "en": "Molars",
+                "ru": "Моляры"
+            },
+            "description": {
+                "uz": "Kichik oziq tishga o'xshaydi. Hajmi kattaroq. Ovqatni maydalash uchun ishlatiladi",
+                "en": "Are like premolars, but sometimes a bit bigger. They are also used for crushing and grinding food",
+                "ru": "Похожи на премоляры, но иногда немного больше. Они также используются для измельчения и измельчения пищевых продуктов"
+            },
+            "image": {
+                "src": "./malumot/img/49.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Milk",
+                "en": "Gum",
+                "ru": "Плотная"
+            },
+            "description": {
+                "uz": "Yuqori yoki pastki jag'dagi tishlarning ildizlari atrofidagi qattiq tana go'shti",
+                "en": "The firm area of flesh around the roots of the teeth in the upper or lower jaw",
+                "ru": "Плоть вокруг корней зубов верхней или нижней челюсти"
+            },
+            "image": {
+                "src": "./malumot/img/50.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Tishning dentin qavati",
+                "en": "Dentine",
+                "ru": "Дентин"
+            },
+            "description": {
+                "uz": "Tishning asosiy qismini tashkil etuvchi, emal ostidagi qattiq zich suyak to'qimasi",
+                "en": "Hard dense bony tissue forming the bulk of a tooth, beneath the enamel",
+                "ru": "Твердая плотная костная ткань, образующая основную часть зуба под эмалью"
+            },
+            "image": {
+                "src": "./malumot/img/51.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Pulpa bo'shlig'i",
+                "en": "Pulp cavity",
+                "ru": "Полость пульпы"
+            },
+            "description": {
+                "uz": "Pulpani o'z ichiga olgan tish ichidagi bo'shliq. tishning bu qismida nerv va qon tomirlari joylashgan",
+                "en": "The space within a tooth that contains the pulp. nerves and blood vessels are located in this part of the tooth",
+                "ru": "Пространство внутри зуба, содержащее пульпу,в этой части зуба расположены нервы и кровеносные сосуды"
+            },
+            "image": {
+                "src": "./malumot/img/52.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Ferment",
+                "en": "Enzyme",
+                "ru": "Фермент"
+            },
+            "description": {
+                "uz": "Tirik organizm tomonidan ishlab chiqarilgan, ma'lum bir biokimyoviy reaktsiyani keltirib chiqaradigan katalizator vazifasini bajaradigan modda",
+                "en": "A substance produced by a living organism which acts as a catalyst to bring about a specific biochemical reaction",
+                "ru": "Вещество, вырабатываемое живым организмом, которое действует как катализатор, вызывая определенную биохимическую реакцию"
+            },
+            "image": {
+                "src": "./malumot/img/53.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Qon tomirlari",
+                "en": "Blood vessels",
+                "ru": "Кровеносные сосуды"
+            },
+            "description": {
+                "uz": "To'qimalar va organlar orqali qonni olib o'tadigan quvurli struktura;  vena, arteriya yoki kapillyar",
+                "en": "A tubular structure carrying blood through the tissues and organs; a vein, artery, or capillary",
+                "ru": "Трубчатая структура, по которой кровь проходит по тканям и органам;  вена, артерия или капилляр"
+            },
+            "image": {
+                "src": "./malumot/img/54.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Virus",
+                "en": "Virus",
+                "ru": "Вирусы"
+            },
+            "description": {
+                "uz": "Odatda oqsil qobig'idagi nuklein kislota molekulasidan iborat bo'lgan, yorug'lik mikroskopida ko'rish uchun juda kichik bo'lgan va faqat hujayra ichida ko'paya oladigan hujayrasiz shakl",
+                "en": "An infective agent that typically consists of a nucleic acid molecule in a protein coat, is too small to be seen by light microscopy, and is able to multiply only within the living cells of a host",
+                "ru": "Инфекционный агент, который обычно состоит из молекулы нуклеиновой кислоты в белковой оболочке, слишком мал, чтобы быть видимым при световой микроскопии, и способен размножаться только в живых клетках хозяина"
+            },
+            "image": {
+                "src": "./malumot/img/55.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Eritrosit",
+                "en": "Hemoglobin",
+                "ru": "Гемоглобин"
+            },
+            "description": {
+                "uz": "Qizil qon hujayrasi-umurtqali hayvonlarning qonida kislorodni tashish uchun mas'ul bo'lgan qizil oqsil",
+                "en": "Red blood ceels-a red protein responsible for transporting oxygen in the blood of vertebrates",
+                "ru": "Красный белок, отвечающий за транспортировку кислорода в крови позвоночных"
+            },
+            "image": {
+                "src": "./malumot/img/56.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Oq qon hujayralari",
+                "en": "White blood cells",
+                "ru": "Лейкоциты"
+            },
+            "description": {
+                "uz": "Oq qon hujayralari bizni tanaga kiradigan bakteriyalar va viruslardan himoya qilishga yordam beradi",
+                "en": "White blood cells help to defend us against bacteria and viruses that get into the body",
+                "ru": "Лейкоциты помогают защитить нас от бактерий и вирусов, попадающих в организм"
+            },
+            "image": {
+                "src": "./malumot/img/57.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Arteriya",
+                "en": "Arteries",
+                "ru": "Артерии"
+            },
+            "description": {
+                "uz": "Qon aylanish tizimining bir qismini tashkil etuvchi mushak devorli naychalarning har qandayi, uning yordamida qon (asosan kislorod bilan ta'minlangan) yurakdan tananing barcha qismlariga uzatiladi",
+                "en": "Any of the muscular-walled tubes forming part of the circulation system by which blood (mainly that which has been oxygenated) is conveyed from the heart to all parts of the body",
+                "ru": "Любая из труб с мускулистыми стенками, составляющая часть системы кровообращения, по которой кровь (в основном насыщенная кислородом) передается от сердца ко всем частям тела"
+            },
+            "image": {
+                "src": "./malumot/img/58.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Kapilar",
+                "en": "Capillarie",
+                "ru": "Капилляр"
+            },
+            "description": {
+                "uz": "Kapillyarlar ingichka devorlarga ega, ular faqat bitta hujayra qatlamidan iborat. Bu shuni anglatadiki, qondagi moddalar - kislorod va shakar osongina chiqib ketadi.",
+                "en": "Capillaries have thin walls, made up of only one layer of cells. This means that substances in the blood - such as oxygen and sugar easily get out",
+                "ru": "Имеют тонкие стенки, состоящие только из одного слоя клеток.  Это означает, что вещества из крови, такие как кислород и сахар, легко выходят наружу"
+            },
+            "image": {
+                "src": "./malumot/img/59.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Vena",
+                "en": "Vein",
+                "ru": ""
+            },
+            "description": {
+                "uz": "Yurakka boradigan har qanday qon tomirga aytiladi",
+                "en": "Any blood vessel that goes to the heart",
+                "ru": "Любой кровеносный сосуд, идущий к сердцу"
+            },
+            "image": {
+                "src": "./malumot/img/60.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Yurak",
+                "en": "Heart",
+                "ru": "Сердце"
+            },
+            "description": {
+                "uz": "Ritmik qisqarish va kengayish orqali qonni qon aylanish tizimi orqali haydab chiqaradigan ichi bo'sh mushak organi",
+                "en": "Atria a hollow muscular organ that pumps the blood through the circulatory system by rhythmic contraction and dilation",
+                "ru": "Полый мышечный орган, который перекачивает кровь по кровеносной системе за счет ритмичных сокращений и расширений"
+            },
+            "image": {
+                "src": "./malumot/img/61.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Alveola",
+                "en": "Alveoli",
+                "ru": "Альвеолы"
+            },
+            "description": {
+                "uz": "O'pkaning tez gaz almashinuvini ta'minlaydigan ko'plab mayda havo qoplarining har biri",
+                "en": "Any of the many tiny air sacs of the lungs which allow for rapid gaseous exchange",
+                "ru": "Любые из множества крошечных воздушных мешков в легких, которые обеспечивают быстрый газообмен"
+            },
+            "image": {
+                "src": "./malumot/img/62.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Halqum",
+                "en": "Voicebox",
+                "ru": "Голосовой"
+            },
+            "description": {
+                "uz": "Odamlarda va boshqa sutemizuvchilarda o'pkaga havo o'tishini tashkil etuvchi va ovoz paychalarini ushlab turadigan ichi bo'sh mushak organi;  ovoz qutisi",
+                "en": "(larynx) the hollow muscular organ forming an air passage to the lungs and holding the vocal cords in humans and other mammals; the voice box",
+                "ru": "Ящик - полый мышечный орган, образующий воздушный канал к легким и удерживающий голосовые связки у людей и других млекопитающих;  голосовой ящик."
+            },
+            "image": {
+                "src": "./malumot/img/63.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Traxeya",
+                "en": "Windpipe(trachea)",
+                "ru": "Трахея"
+            },
+            "description": {
+                "uz": "Tomoqdan o'pkaga havo o'tishi",
+                "en": "The air passage from the throat to the lungs; the trachea",
+                "ru": "Воздушный проход от трахеи - горла к легким"
+            },
+            "image": {
+                "src": "./malumot/img/63.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "O'pka",
+                "en": "Lung",
+                "ru": "Легкие"
+            },
+            "description": {
+                "uz": "Ko'krak qafasi ichida joylashgan har bir juft a'zo, kislorod qonga o'tishi va karbonat angidridni olib tashlash uchun havo so'rilib, shoxlangan yo'llari bo'lgan elastik qoplardan iborat",
+                "en": "Each of the pair of organs situated within the rib cage, consisting of elastic sacs with branching passages into which air is drawn, so that oxygen can pass into the blood and carbon dioxide be removed",
+                "ru": "Каждый из пары органов, расположенных в грудной клетке, состоящий из эластичных мешочков с разветвляющимися проходами, в которые втягивается воздух, так что кислород может проходить в кровь, а углекислый газ удаляется"
+            },
+            "image": {
+                "src": "./malumot/img/64.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Diafragma",
+                "en": "Diaphragm",
+                "ru": "Диафрагма"
+            },
+            "description": {
+                "uz": "Sutemizuvchilarda ko'krak qafasini qorindan ajratib turuvchi gumbazsimon mushak bo'limi",
+                "en": "A dome-shaped muscular partition separating the thorax from the abdomen in mammals",
+                "ru": "Куполообразная мышечная перегородка, отделяющая грудную клетку от брюшной полости у млекопитающих"
+            },
+            "image": {
+                "src": "./malumot/img/65.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Gen",
+                "en": "Genes",
+                "ru": "Ген"
+            },
+            "description": {
+                "uz": "Xromasomalarda joylashgan ma'lumot. Gen bir molekula oqsilning sinteziga javob beradigan xromasomaning bir qismi",
+                "en": "Is information located on chromosomes.  A gene is a part of a chromosome that responds to the synthesis of a molecule of protein",
+                "ru": "Это информация, расположенная на хромосомах.  Ген - это часть хромосомы, которая отвечает на синтез молекулы белка"
+            },
+            "image": {
+                "src": "./malumot/img/66.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Xromasoma",
+                "en": "Chromosome",
+                "ru": "Хромосома"
+            },
+            "description": {
+                "uz": "Ko'pchilik tirik hujayralar yadrosida joylashgan nuklein kislotalar va oqsillarning ipsimon tuzilishi, genlar shaklida genetik ma'lumotni olib yuradi",
+                "en": "A threadlike structure of nucleic acids and protein found in the nucleus of most living cells, carrying genetic information in the form of genes",
+                "ru": "нитевидная структура нуклеиновых кислот и белков, присутствующая в ядре большинства живых клеток, несущая генетическую информацию в виде генов"
+            },
+            "image": {
+                "src": "./malumot/img/67.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Buyrak",
+                "en": "Kidney",
+                "ru": "Почка"
+            },
+            "description": {
+                "uz": "Sut emizuvchilar, qushlar va sudralib yuruvchilarning qorin bo'shlig'idagi siydik chiqaradigan juft organi",
+                "en": "Of a pair of organs in the abdominal cavity of mammals, birds, and reptiles, excreting urine",
+                "ru": "Парный орган в брюшной полости млекопитающих, птиц и рептилий, выделяющий мочу"
+            },
+            "image": {
+                "src": "./malumot/img/68.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Qattiq moddalar",
+                "en": "Solids",
+                "ru": "Твердые тела"
+            },
+            "description": {
+                "uz": "Qattiq jismlarda zarrachalar qattiq holatda joylashgan.  Zarrachalar bir-biriga kuchli tutiladi vabir-biriga mahkam o'ralgan",
+                "en": "In solids the particles are arranged in a fixed pattern. The particles are held together strongly and are tightly packed together",
+                "ru": "В твердых телах частицы располагаются в фиксированном шаблон. Частицы прочно удерживаются вместе и плотно упакованы вместе"
+            },
+            "image": {
+                "src": "./malumot/img/69.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Suyuqliklar",
+                "en": "Liquids",
+                "ru": "Жидкости"
+            },
+            "description": {
+                "uz": "suyuqliklarda zarrachalar bir-biriga tegib turadi.Zarrachalar kuchsiz bir-biriga bog'langan. Zarrachalar bir-birining yonidan o'tishi mumkin, lekin ular hali ham bir-biriga tegib turadi boshqa",
+                "en": "In liquids the particles touch each other. The particles are held together weakly. The particles can move past one another but they still touch each other. Liquids can change shape",
+                "ru": "В жидкостях частицы соприкасаются друг с другом. Частицы слабо удерживаются вместе. Частицы могут двигаться мимо друг друга, но они все еще касаются друг друга разное"
+            },
+            "image": {
+                "src": "./malumot/img/70.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Gazlar",
+                "en": "Gases",
+                "ru": "Газы"
+            },
+            "description": {
+                "uz": "Gazlardagi zarralar bir-biriga tegmaydi. Ular bir-biridan ancha uzoqda. Zarrachalar o'z-o'zidan tarqaladi. Zarrachalar tarqalishi mumkin ular joylashgan bo'shliqni to'ldirish uchun",
+                "en": "In gases the particles do not touch each other. They are a long way apart. The particles spread out by themselves. The particles can spread out to fill up the space they are in",
+                "ru": "В газах частицы не соприкасаются друг с другом. Они далеко друг от друга. Частицы разлетаются сами по себе. Частицы могут разлетаться чтобы заполнить пространство, в котором они находятся"
+            },
+            "image": {
+                "src": "./malumot/img/71.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Sovutish gazlari",
+                "en": "Cooling gases",
+                "ru": "Охлаждающие газы"
+            },
+            "description": {
+                "uz": "Gazdagi zarrachalar istalgan joyga erkin harakatlana oladi va tarqaladi. Ularni ushlab turgan kuchlar yo'q. Gaz soviganida u kondensatsiyalanib, suyuqlik hosil qiladi",
+                "en": "The particles in a gas are free to move anywhere and spread out. There are no forces holding them. When a gas gets cooler it condenses to form a liquid",
+                "ru": "Частицы газа могут двигаться куда угодно и разложить. Нет сил, удерживающих их. Когда газ охлаждается, он конденсируется, образуя жидкость"
+            },
+            "image": {
+                "src": "./malumot/img/72.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Yog'ingarchilik",
+                "en": "Precipitation",
+                "ru": "Осадки"
+            },
+            "description": {
+                "uz": "Tomchilar yomg'ir sifatida Yerga qaytadi. Agar tomchilar paydo bo'lsa sovuqroq, ular qor, do'l yoki qor hosil qilishi mumkin. Bu jarayon yog'ingarchilik deb ataladi",
+                "en": "The droplets fall back to Earth as rain. If the drops become colder they may form snow, hail or sleet. This process is called precipitation.",
+                "ru": "Капли падают обратно на Землю в виде дождя. Если капли становятся холоднее они могут образовывать снег, град или мокрый снег. Этот процесс называется осаждением"
+            },
+            "image": {
+                "src": "./malumot/img/73.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Kislota",
+                "en": "Acid",
+                "ru": "Кислота"
+            },
+            "description": {
+                "uz": "Ishqorlarni neytrallashtiruvchi, ba'zi metallarni erituvchi va lakmusni qizil rangga aylantiruvchi kimyoviy modda; odatda, bu turdagi korroziy yoki nordon ta'mli suyuqlik",
+                "en": "A chemical substance that neutralizes alkalis, dissolves some metals, and turns litmus red; typically, a corrosive or sour-tasting liquid of this kind",
+                "ru": "химическое вещество, нейтрализующее щелочи, растворяющее некоторые металлы, окрашивающее лакмус в красный цвет; обычно это коррозионная или кислая жидкость такого типа"
+            },
+            "image": {
+                "src": "./malumot/img/74.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Ishqor",
+                "en": "Alkali",
+                "ru": "Щелочь"
+            },
+            "description": {
+                "uz": "Natriy gidroksidi a kuchli gidroksidi. Kuchli ishqorlar xavflidir. Ular o'yuvchi xususiyatga ega",
+                "en": "Sodium hydroxide is a strong alkali. Strong alkalis are dangerous. They are corrosive",
+                "ru": "Гидроксид натрия представляет собой сильная щелочь. Сильные щелочи опасны. Они агрессивны"
+            },
+            "image": {
+                "src": "./malumot/img/75.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Lakmus",
+                "en": "Litmus",
+                "ru": "Лакмус"
+            },
+            "description": {
+                "uz": "Siz odatda foydalanasiz lakmuseritmasiga singdiruvchi qog'ozni namlash orqali tayyorlanadigan qog'oz",
+                "en": "It is a dye. You usually use litmus paper, which is made by soaking absorbent paper in litmus solution",
+                "ru": "Это краситель. Вы обычно используете лакмус бумага, которую изготавливают путем замачивания гигроскопической бумаги в растворе лакмуса"
+            },
+            "image": {
+                "src": "./malumot/img/76.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Soya",
+                "en": "Shadow",
+                "ru": "Тень"
+            },
+            "description": {
+                "uz": "Shaffof ob'ekt yorug'lik o'tishiga yo'l qo'ymaydigan ob'ektdir. Shaffof ob'ekt yorug'lik manbai oldidan o'tganda, soya paydo bo'ladi",
+                "en": "An opaque object is an object that will not allow light to pass through. When an opaque object passes in front of a source oflight, a shadow will form",
+                "ru": "Непрозрачный объект — это объект, который не пропускает свет. Когда непрозрачный объект проходит перед источником света, образуется. тень"
+            },
+            "image": {
+                "src": "./malumot/img/77.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Quyosh tutilishi",
+                "en": "Solar eclipse",
+                "ru": "Солнечное затмение"
+            },
+            "description": {
+                "uz": "Oy quyosh va yer o'rtasiga kelganda sodir bo'ladigan jarayon bo'lib, quyoshdan keladigan yorug'likni oy to'sib qo'yadi",
+                "en": "A solar eclipse happens when the Moon comes between the Sun and the Earth. The Moon is made from rock, so is an opaque object. The Moon blocks the rays of light coming from the Sun",
+                "ru": "Солнечное затмение происходит, когда Луна находится между Солнцем и Землей. Луна сделана из камня, как и непрозрачный предмет. Луна блокирует лучи света, исходящие от Солнца"
+            },
+            "image": {
+                "src": "./malumot/img/78.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Diffuziya",
+                "en": "Diffusion",
+                "ru": "Диффузия"
+            },
+            "description": {
+                "uz": "Molekulalar yuqori kontsentratsiyali bo'ylab teng bo'lgunga qadar o'tadi",
+                "en": "The molecules move from a region of higher concentration to a region of lower concentration until the concentration becomes equal throughout",
+                "ru": "Молекулы перемещаются из области с большей концентрацией в область с меньшей концентрацией до тех пор, пока концентрация не станет одинаковой по всему объему"
+            },
+            "image": {
+                "src": "./malumot/img/79.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Atom",
+                "en": "Atom",
+                "ru": "Атом"
+            },
+            "description": {
+                "uz": "Kimyoviy elementning asosiy birligi",
+                "en": "The basic unit of a chemical element<",
+                "ru": "Основная единица химического элемента"
+            },
+            "image": {
+                "src": "./malumot/img/80.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Amplituda",
+                "en": "Amplitude",
+                "ru": "Амплитуда"
+            },
+            "description": {
+                "uz": "Muvozanat holatidan o'lchanadigan tebranish yoki tebranishning maksimal darajasi",
+                "en": "The maximum extent of a vibration or oscillation, measured from the position of equilibrium.",
+                "ru": "Максимальная степень вибрации или колебания, измеренная от положения равновесия."
+            },
+            "image": {
+                "src": "./malumot/img/91.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Vakum",
+                "en": "Vacuum",
+                "ru": "Вакуум"
+            },
+            "description": {
+                "uz": "Materiyadan butunlay mahrum bo'lgan makon",
+                "en": "A space entirely devoid of matter",
+                "ru": "Пространство, полностью лишенное материи"
+            },
+            "image": {
+                "src": "./malumot/img/92.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Osiloskop",
+                "en": "Oscilloscope",
+                "ru": "Осциллограф"
+            },
+            "description": {
+                "uz": "Katod nurlari trubkasi displey orqali elektr kuchlanish yoki oqim bo'yicha tebranishlarni ko'rish uchun qurilma.",
+                "en": "A device for viewing oscillations, as of electrical voltage or current, by a display on the screen of a cathode ray tube",
+                "ru": "Прибор для просмотра колебаний электрического напряжения или тока на экране электронно-лучевой трубки"
+            },
+            "image": {
+                "src": "./malumot/img/93.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Eshitish",
+                "en": "Hear",
+                "ru": "Слышать"
+            },
+            "description": {
+                "uz": "(kimdir yoki biror narsa) tomonidan chiqarilgan tovushni quloq bilan idrok eting.",
+                "en": "Perceive with the ear<br> the sound made by (someone or something)",
+                "ru": "Воспринимать ухом звук, издаваемый (кем-то или чем-то)"
+            },
+            "image": {
+                "src": "./malumot/img/94.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Quloq pardasi",
+                "en": "Eardrum",
+                "ru": "Барабанная перепонка"
+            },
+            "description": {
+                "uz": "Tovush to'lqinlariga javoban tebranadigan o'rta quloqning membranasi",
+                "en": "The membrane of the middle ear, which vibrates in response to sound waves",
+                "ru": "Мембрана среднего уха, которая вибрирует в ответ на звуковые волны"
+            },
+            "image": {
+                "src": "./malumot/img/95.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Quloq chiganogi",
+                "en": "Cochlea",
+                "ru": "Улитка"
+            },
+            "description": {
+                "uz": "Tovush tebranishlariga javoban nerv impulslarini ishlab chiqaradigan spiralsimon organini o'z ichiga olgan ichki quloqning spiral bo'shlig'i",
+                "en": "Spiral cavity of the inner ear containing the organ of Corti, which produces nerve impulses in response to sound vibrations",
+                "ru": "Спиральная полость внутреннего уха, содержащая кортиев орган, производящий нервные импульсы в ответ на звуковые колебания"
+            },
+            "image": {
+                "src": "./malumot/img/96.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Sinishi",
+                "en": "Refraction",
+                "ru": "Преломление"
+            },
+            "description": {
+                "uz": "Yorug'lik, radio to'lqinlar va boshqalarning bir muhit va boshqasi orasidagi interfeys orqali yoki turli xil zichlikdagi muhit orqali qiya o'tishda burilish fakti yoki hodisasi.",
+                "en": "The fact or phenomenon of light, radio waves, etc. being deflected in passing obliquely through the interface between one medium and another or through a medium of varying density",
+                "ru": "Факт или явление отклонения света, радиоволн и т.д.при прохождении под углом через границу раздела одной среды с другой или через среду с переменной плотностью"
+            },
+            "image": {
+                "src": "./malumot/img/97.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Spektr",
+                "en": "Spectrum",
+                "ru": "Спектр"
+            },
+            "description": {
+                "uz": "Yorug'lik komponentlarini to'lqin uzunligi bo'yicha turli darajadagi sinishi bo'yicha ajratish natijasida hosil bo'lgan, kamalakda ko'rinadigan ranglar guruhi.",
+                "en": "A band of colors, as seen in a rainbow, produced by separation of the components of light by their different degrees of refraction according to wavelength",
+                "ru": "Полоса цветов, видимая в радуге, полученная разделением компонентов света по разным степеням их преломления в зависимости от длины волны"
+            },
+            "image": {
+                "src": "./malumot/img/98.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Statik elektr",
+                "en": "Static electricity",
+                "ru": "Статическое электричество"
+            },
+            "description": {
+                "uz": "Statsionar elektr zaryadi, odatda ishqalanish natijasida hosil bo'ladi, bu uchqun yoki yorilish yoki chang yoki sochlarning tortilishiga olib keladi",
+                "en": "A stationary electric charge, typically produced by friction, which causes sparks or crackling or the attraction of dust or hair",
+                "ru": "Постоянный электрический заряд, обычно создаваемый трением, который вызывает искры, потрескивание или притяжение пыли или волос"
+            },
+            "image": {
+                "src": "./malumot/img/99.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Supero'tkazuvchilar",
+                "en": "Conductors",
+                "ru": "Проводники"
+            },
+            "description": {
+                "uz": "Issiqlik, elektr toki yoki tovushni o'tkazadigan yoki uzatuvchi material yoki qurilma",
+                "en": "A material or device that conducts or transmits heat, electricity, or sound",
+                "ru": "Материал или устройство, которое проводит или передает тепло"
+            },
+            "image": {
+                "src": "./malumot/img/100.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Yadro energiyasi",
+                "en": "Nuclear energy",
+                "ru": "Ядерная энергия"
+            },
+            "description": {
+                "uz": "Yadroviy bo'linish yoki sintez paytida, ayniqsa elektr energiyasini ishlab chiqarish uchun foydalanilganda chiqariladi",
+                "en": "Released during nuclear fission or fusion, especially when used to generate electricity",
+                "ru": "Высвобождается при делении или синтезе ядер, особенно при использовании для выработки электроэнергии"
+            },
+            "image": {
+                "src": "./malumot/img/101.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Konveksiya",
+                "en": "Convection",
+                "ru": "Конвекция"
+            },
+            "description": {
+                "uz": "Suyuqlik ichida issiqroq va shuning uchun kamroq zichroq materialning ko'tarilishi va sovuqroq, zichroq materialning tortishish kuchi ta'sirida cho'kish tendentsiyasi tufayli yuzaga keladigan harakat, natijada issiqlik uzatilishiga olib keladi.",
+                "en": "The movement caused within a fluid by the tendency of hotter and therefore less dense material to rise, and colder, denser material to sink under the influence of gravity, which consequently results in transfer of heat",
+                "ru": "Движение, вызванное тенденцией более горячего и, следовательно, менее плотного материала подниматься вверх, а более холодного и более плотного материала опускаться под действием силы тяжести, что, следовательно, приводит к передаче тепла"
+            },
+            "image": {
+                "src": "./malumot/img/102.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Radiatsiya",
+                "en": "Radiation",
+                "ru": "Излучение"
+            },
+            "description": {
+                "uz": "Energiyaning elektromagnit to'lqinlar yoki harakatlanuvchi subatomik zarralar, ayniqsa ionlanishga olib keladigan yuqori energiyali zarralar sifatida emissiyasi",
+                "en": "The emission of energy as electromagnetic waves or as moving subatomic particles, especially high-energy particles which cause ionization",
+                "ru": "Излучение энергии в виде электромагнитных волн или движущихся субатомных частиц, особенно частиц высокой энергии, вызывающих ионизацию"
+            },
+            "image": {
+                "src": "./malumot/img/103.png"
+            }
+        },
+        {
+            "title": {
+                "uz": "Katalizator",
+                "en": "Catalyst any permanent chemical change",
+                "ru": "Катализатор"
+            },
+            "description": {
+                "uz": "O'zi doimiy kimyoviy o'zgarishsiz kimyoviy reaktsiya tezligini oshiradigan modda",
+                "en": "A substance that increases the rate of a chemical reaction without itself undergoing",
+                "ru": "Вещества, которые увеличивают скорость химической реакции, не претерпевая при этом каких-либо необратимых химических изменений"
+            },
+            "image": {
+                "src": "./malumot/img/104.jpg"
+            }
+        },
+        {
+            "title": {
+                "uz": "Tuz",
+                "en": "Salt",
+                "ru": "Соль"
+            },
+            "description": {
+                "uz": "Kislotaning asos bilan reaksiyasi natijasida hosil bo'lgan har qanday kimyoviy birikma",
+                "en": "Any chemical compound formed from the reaction of an acid with a base",
+                "ru": "Любое химическое соединение, образованное в результате реакции кислоты с основанием"
+            },
+            "image": {
+                "src": "./malumot/img/105.jpg"
+            }
+        }
+    ]
+}
